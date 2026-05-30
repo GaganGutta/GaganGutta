@@ -53,6 +53,6 @@ Source for [gagan.cc](https://gagan.cc) — my portfolio and project showcase.
 ## Find Me
 
 - Portfolio: [gagan.cc](https://gagan.cc)
-- - LinkedIn: [linkedin.com/in/gagangutta](https://linkedin.com/in/gagangutta)
-  - - Email: gg3367@nyu.edu
-    - 
+- LinkedIn: [linkedin.com/in/gagangutta](https://linkedin.com/in/gagangutta)
+- - Email: gg3367@nyu.edu
+    
