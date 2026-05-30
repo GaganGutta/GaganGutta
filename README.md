@@ -2,7 +2,7 @@
 
 **Math, CS & AI @ NYU Courant** · Building applied ML systems and the occasional product around them.
 
-🌐 **[gagan.cc](https://gagan.cc)** · 📬 gg3367@nyu.edu
+**[gagan.cc](https://gagan.cc)** · gg3367@nyu.edu
 
 ---
 
@@ -16,22 +16,22 @@ Currently a research assistant at **Jordaan Labs, UMass Amherst**, where I built
 
 ## Featured Projects
 
-### 🐟 HerringNet
+### HerringNet
 A two-stage deep learning pipeline for automated fish detection and counting from underwater camera traps. Uses YOLOv12x (pretrained on 1.9M fish images) + frame-residence-rate methodology to eliminate double-counting. Processes 2,320+ images at 1.4s/image on consumer CPU — zero false positives on debris, leaves, or rocks. Presented at MassURC 2026.
 
 `Python` `PyTorch` `YOLOv12` `OpenCV` `SAHI` `Gradio`
 
-### 🤖 KalshiBot
+### KalshiBot
 Automated trading bot for the Kalshi prediction markets platform.
 
 `Python`
 
-### 🧹 ClearContext
+### ClearContext
 A browser extension for managing and clearing AI chat context efficiently.
 
 `JavaScript`
 
-### 🌐 Personal Website
+### Personal Website
 Source for [gagan.cc](https://gagan.cc) — my portfolio and project showcase.
 
 `HTML`
@@ -40,16 +40,19 @@ Source for [gagan.cc](https://gagan.cc) — my portfolio and project showcase.
 
 ## Tech Stack
 
-**Languages:** Python · JavaScript · TypeScript · SQL  
-**ML/AI:** PyTorch · YOLOv8/v12 · OpenCV · SAHI · Gradio · Pydantic  
-**Web:** Next.js · React · Node.js  
-**Tools:** Git · Linux · Docker  
+**Languages:** Python · JavaScript · TypeScript · SQL
+
+**ML/AI:** PyTorch · YOLOv8/v12 · OpenCV · SAHI · Gradio · Pydantic
+
+**Web:** Next.js · React · Node.js
+
+**Tools:** Git · Linux · Docker
 
 ---
 
 ## Find Me
 
-- 🌐 Portfolio: [gagan.cc](https://gagan.cc)
-- - 💼 LinkedIn: [linkedin.com/in/gagangutta](https://linkedin.com/in/gagangutta)
-  - - 📬 Email: gg3367@nyu.edu
+- Portfolio: [gagan.cc](https://gagan.cc)
+- - LinkedIn: [linkedin.com/in/gagangutta](https://linkedin.com/in/gagangutta)
+  - - Email: gg3367@nyu.edu
     - 
