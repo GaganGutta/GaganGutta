@@ -21,13 +21,13 @@ A two-stage deep learning pipeline for automated fish detection and counting fro
 
 `Python` `PyTorch` `YOLOv12` `OpenCV` `SAHI` `Gradio`
 
-### KalshiBot
-Automated trading bot for the Kalshi prediction markets platform.
+### attention-emergence
+Reproduction and extension of "Emergent Capabilities Arise Randomly from Learning Sparse Attention Patterns" (NYU). Re-implements the paper's synthetic testbeds from scratch in PyTorch, reproduces its core results on a laptop CPU, and extends the analysis with an original early-warning predictor for emergence timing.
 
-`Python`
+`Python` `PyTorch`
 
 ### ClearContext
-A browser extension for managing and clearing AI chat context efficiently.
+Stealth startup which worked on content intelligence for adtech and programmatic companies. Worked with IPG and Omnicom.
 
 `JavaScript`
 
