@@ -8,9 +8,9 @@
 
 ## About Me
 
-I build AI systems — mostly applied machine learning and computer vision, sometimes for research, sometimes for startups. I'm drawn to problems where the gap between state-of-the-art models and real-world deployment is still wide.
+I build AI systems, mostly applied machine learning and computer vision, sometimes for research, sometimes for startups. I'm drawn to problems where the gap between state-of-the-art tech  and real-world deployment is still wide.
 
-Currently a research assistant at **Jordaan Labs, UMass Amherst**, where I built HerringNet — a deep learning pipeline for automated river herring population monitoring, presented at MassURC 2026 with a methods paper in preparation.
+Currently a research assistant at **Jordaan Labs, UMass Amherst**, where I built HerringNet — a CV Model for automated river herring population monitoring, presented at MassURC 2026 with a methods paper in preparation.
 
 ---
 
