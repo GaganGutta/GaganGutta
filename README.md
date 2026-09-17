@@ -27,7 +27,7 @@ A two-stage deep learning pipeline for automated fish detection and counting fro
 `Python` `PyTorch` `YOLOv12` `OpenCV` `SAHI` `FastAPI`
 
 ### Playable Neural Game Engine
-Train a causal transformer over VQ-VAE tokens on VizDoom frames, then throw the game engine away and drive the model with a keyboard. Scaled 2M/8M/26M parameters on a pre-registered 2.9B-token budget; the 26M model closes 83% of the gap between copy-last-frame and the tokenizer's ceiling. KV caching plus a MaskGIT decode path that shares weights with the raster path cut frame time from 1.3s to 24ms, making it playable on a laptop CPU with no GPU at inference.
+Train a causal transformer over VQ-VAE tokens on VizDoom frames, then throw the game engine away and drive the model with a keyboard. Scaled 2M/8M/26M parameters on a pre-registered 2.9B-token budget; the 26M model closes 83% of the gap between copy-last-frame and the tokenizer's ceiling. KV caching plus a MaskGIT decode path that shares weights with the raster path cut frame time from 1.54s to 28ms (35.47 fps), making it playable on a laptop CPU with no GPU at inference.
 
 `Python` `PyTorch` `CUDA` `Transformers` `Docker`
 
