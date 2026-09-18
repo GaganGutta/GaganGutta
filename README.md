@@ -42,7 +42,7 @@ Co-founded and lead engineering for a B2B brand safety platform: LLM-driven anal
 `Python` `FastAPI` `TypeScript` `LLM APIs` `PostgreSQL/Supabase`
 
 ### Personal Website
-Source for [gagan.cc](https://gagan.cc) — my portfolio and project showcase.
+Source for [gagan.cc](https://gagan.cc) ==> my portfolio and project showcase.
 
 `HTML`
 
