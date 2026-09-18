@@ -10,7 +10,7 @@
 
 I build AI systems, mostly applied machine learning and computer vision, sometimes for research, sometimes for startups. I'm drawn to problems where the gap between state-of-the-art tech and real-world deployment is still wide.
 
-Most recently a research assistant at **Jordaan Labs, UMass Amherst**, where I built HerringNet — a CV model for automated river herring population monitoring, presented at MassURC 2026 with a methods paper in preparation. Lately I've been deep in systems work, writing a durable job queue from scratch in C++20.
+Most recently a research assistant at **Jordaan Labs, UMass Amherst**, where I built HerringNet, a CV model for automated river herring population monitoring, presented at MassURC 2026 with a methods paper in preparation. Lately I've been deep in systems work, writing a durable job queue from scratch in C++20.
 
 ---
 
